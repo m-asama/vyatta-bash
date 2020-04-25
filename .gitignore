@@ -8,5 +8,7 @@
 /debian/vyatta-bash.substvars
 /debian/vyatta-bash
 /debian/vyatta-bash.debhelper.log
+/debian/.debhelper/
+/debian/changelog.*
 /stamps
 y.tab.?
